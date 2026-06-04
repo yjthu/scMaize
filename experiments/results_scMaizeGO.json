@@ -1,0 +1,17 @@
+{
+  "exp_name": "scMaizeGO",
+  "config": {
+    "model_type": "scMaizeGO",
+    "use_func_embedding": true,
+    "func_embed_path": "data/M3_improved_gene_embedding.pkl",
+    "checkpoint_prefix": "scMaizeGO",
+    "use_batch_label": true,
+    "use_contrastive": false,
+    "contrastive_weight": 0.0
+  },
+  "result": {
+    "val_mse": 0.09710038935514358,
+    "test_mse": 0.09719058742958131,
+    "test_pearson": 0.7841442227363586
+  }
+}

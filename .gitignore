@@ -1,0 +1,35 @@
+# 🚫 Do not commit large files to Git
+# Download these separately (see README.md)
+
+# Data files (22 GB + ~30 MB)
+data/preprocessed_data.pkl
+data/M3_improved_gene_embedding.pkl
+
+# Model checkpoints (75-100 MB each)
+checkpoints/*.pt
+checkpoints/*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

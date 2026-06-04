@@ -1,0 +1,17 @@
+{
+  "exp_name": "scMaizeExp",
+  "config": {
+    "model_type": "scMaizeExp",
+    "use_func_embedding": false,
+    "func_embed_path": null,
+    "checkpoint_prefix": "scMaizeExp",
+    "use_batch_label": true,
+    "use_contrastive": false,
+    "contrastive_weight": 0.0
+  },
+  "result": {
+    "val_mse": 0.0959673382654484,
+    "test_mse": 0.09605905450879368,
+    "test_pearson": 0.7825217247009277
+  }
+}
