@@ -132,8 +132,6 @@ CLS Token → LayerNorm → Cell Embedding (384-dim)
 - **Training**: AdamW, lr=2e-4, batch 256 (eff.), 80 epochs
 - **Hardware**: Single NVIDIA A100 40GB (peak VRAM <15 GB)
 
-For detailed architecture description, see [model_architecture.md](model_architecture.md).
-
 ---
 
 ## 📊 Pretrained Model Performance
