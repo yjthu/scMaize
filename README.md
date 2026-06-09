@@ -14,7 +14,7 @@ scMaize is a family of Transformer-based foundation models pretrained on a compr
 | **scMaizeGO** | Expression + Gene Ontology functional embedding | 16.8M |
 
 📄 **Preprint**: [bioRxiv link — coming soon]  
-🌐 **Project Portal**: [coming soon] 
+🌐 **Project Portal**: [coming soon]  
 🤗 **Model Weights**: [HuggingFace / Zenodo — coming soon]
 
 ---
