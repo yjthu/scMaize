@@ -137,7 +137,7 @@ CLS Token → LayerNorm → Cell Embedding (384-dim)
 
 | Metric | scMaizeExp | scMaizeGO |
 |--------|-----------|-----------|
-| Global Pearson (MGM) | 0.7826 | 0.7824 |
+| Global Pearson (MGM) | 0.7825 | 0.7841 |
 | Global Spearman (MGM) | 0.4844 | 0.5008 |
 | Per-gene PCC (median) | 0.5514 | 0.5541 |
 | Cell-type classification acc. | 84.3% | 86.0% |
