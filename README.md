@@ -13,7 +13,7 @@ scMaize is a family of Transformer-based foundation models pretrained on a compr
 | **scMaizeExp** | Expression-only foundation model | 16.7M |
 | **scMaizeGO** | Expression + Gene Ontology functional embedding | 16.8M |
 
-📄 **Preprint**: [bioRxiv link — coming soon]  
+📄 **Preprint**: [bioRxiv link](https://doi.org/10.64898/2026.08.01.742180)   
 🌐 **Project Portal**:  [www.scmaize.com](https://www.scmaize.com)    
 
 ---
@@ -168,7 +168,7 @@ If you use scMaize in your research, please cite:
 ```
 Cheng Q.*, Zhang Y.*, Wu T., Zhao A., Shang M., Wang X., Yan J.
 scMaize: A Single-Cell Foundation Model and Integrated Atlas for Maize.
-bioRxiv, 2026. [DOI coming soon]
+bioRxiv, 2026. DOI:10.64898/2026.08.01.742180
 ```
 
 ---
